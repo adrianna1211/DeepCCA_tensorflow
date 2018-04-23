@@ -6,3 +6,4 @@ Because the loss function of VahidooX's implementation  is written with Theano, 
 
 See VahidooX/DeepCCA(https://github.com/VahidooX/DeepCCA) for more information.
 
+Note: Tensorflow version needs to be 1.2+
